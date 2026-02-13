@@ -1,0 +1,126 @@
+
+<html>
+<head>
+
+<title>world one school</title>
+
+<style>
+h1{
+    font-size:100px;
+ text-align:center;
+    margin:20px auto;
+  color: #003366;
+}
+.tree-container{
+    position:relative;
+    width:fit-content;
+    margin:auto;
+}
+
+body {
+    background-image: url("IMG_0365.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+}
+
+.container {
+    position: relative;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.container img {
+    width: 100%;
+}
+
+
+.title-box{
+    color: white;
+    background-color: #425C11;
+    font-size: 80px;
+    text-align: center;
+    padding: 15px 30px;
+    display: inline-block;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.title-wrapper{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+</style>
+
+</head>
+
+<body>
+
+
+<a href="tree2.html"
+style="
+position:absolute;
+top:65%;
+left:40%;
+width:160px;
+height:50px;
+background-color:rgba(0,0,0,0.6);
+color:white;
+text-align:center;
+line-height:50px;
+font-weight:bold;
+border:2px solid white;
+border-radius:8px;
+text-decoration:none;">
+CAMBRIDGE
+</a>
+
+<a href="tree3.html"
+style="
+position:absolute;
+top:65%;
+right:30%;
+width:160px;
+height:50px;
+background-color:rgba(0,0,0,0.6);
+color:white;
+text-align:center;
+line-height:50px;
+font-weight:bold;
+border:2px solid white;
+border-radius:8px;
+text-decoration:none;">
+CBSE
+</a>
+<a href="sports management system.html"
+style="
+position:absolute;
+top:75%;
+left:42%;
+font-size:20px;
+font-weight:bold;
+color:yellow;
+background-color:rgba(0,0,0,0.6);
+padding:8px 14px;
+border-radius:8px;
+text-decoration:none;">
+Click here to register
+</a>
+
+<div class="top-bar">
+ <img src="logo1.png" alt="School Logo" width="300">
+
+<div class="title-wrapper">
+    <div class="title-box">World one school</div>
+</div>
+
+
+
+
+</body>
+</html>
